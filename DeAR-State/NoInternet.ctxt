@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=machine
+comment0.target=NoInternet(Machine)
+comment1.params=
+comment1.target=void\ turnOn()
+comment2.params=
+comment2.target=void\ turnOff()
+comment3.params=
+comment3.target=void\ noInternet()
+comment4.params=
+comment4.target=void\ noGps()
+comment5.params=status
+comment5.target=void\ setInternetConnection(boolean)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

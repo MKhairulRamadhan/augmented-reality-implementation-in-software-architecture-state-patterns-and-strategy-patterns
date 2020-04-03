@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ turnOn()
+comment1.params=
+comment1.target=void\ turnOff()
+comment2.params=
+comment2.target=void\ noInternet()
+comment3.params=
+comment3.target=void\ noGps()
+numComments=4
